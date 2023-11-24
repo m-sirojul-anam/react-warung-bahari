@@ -1,0 +1,11 @@
+.table-header{
+    background-color: black;
+}
+
+thead tr{
+    background-color: black;
+}
+.text-white{
+    color: white;
+    font-size: 20px;
+}
